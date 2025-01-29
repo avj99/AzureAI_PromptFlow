@@ -1,4 +1,4 @@
-# EasyMathBot
+# EasyMath Bot
 
 MathBot is a math assistant that quickly converts natural language questions into precise mathematical notation and delivers solutions in clean LaTeX format. Ideal for students, educators, and professionals, it is powered by Azure Prompt Flow for efficient and accurate responses.
 
